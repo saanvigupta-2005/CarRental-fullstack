@@ -4,7 +4,7 @@
 A production-ready **Car Rental Web Platform** designed to deliver a smooth, secure, and intuitive vehicle booking experience.  
 Built with a focus on **clean architecture, performance optimization, and real-world usability**.
 
-🔗 **Live Application:** https://car-rental-blond-two.vercel.app
+🔗 **Live Application:** https://car-rental-blond-two.vercel.app/
 
 ---
 
