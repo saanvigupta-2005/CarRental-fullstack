@@ -143,7 +143,7 @@ const CarDetails = () => {
           </div>
 
           <div>
-            <label htmlFor="return-date">Pickup Date</label>
+            <label htmlFor="return-date">Return Date</label>
             <input value={returnDate} onChange={(e)=>setReturnDate(e.target.value)}
             type="date" className='border border-borderColor px-3 py-2 rounded-lg
               w-full mt-2 outline-none focus:border-blue-600 transition-all' required id="return-date" 
